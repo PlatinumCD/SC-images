@@ -1,0 +1,4 @@
+System: perlmutter
+OS: SUSE Linux 15-SP3 (15.3)
+Arch: x86_64
+GPU: NVIDIA A100 - CUDA 11.7

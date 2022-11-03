@@ -1,0 +1,3 @@
+System: cori
+OS: SUSE Linux 15-SP2 (15.2)
+Arch: x86_64
